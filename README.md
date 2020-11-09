@@ -2,7 +2,7 @@
 
 ## Description:-
 
- _This is a simple todolist._
+ _This is a simple to-do list._
 
 ## Tech Stacks:-
 
